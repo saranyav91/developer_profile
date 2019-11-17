@@ -31,7 +31,7 @@ Number of users following
 
 Installation:
 
-This assignment is available on my github page whose link is https://saranyav91.github.io//weather_dashboard
+This assignment is available on my github page whose link is https://github.com/saranyav91/developer_profile
 
 Usage:
 
